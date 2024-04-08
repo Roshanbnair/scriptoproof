@@ -40,7 +40,7 @@ function Navbar() {
                 className="nav-links"
                 onClick={handleClick}
               >
-                Home
+                HOME
               </Link>
             </li>
             <li className="nav-item">
