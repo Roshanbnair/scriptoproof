@@ -51,7 +51,7 @@ function Navbar() {
                 className="nav-links"
                 onClick={handleClick}
               >
-                About
+                ABOUT
               </Link>
             </li>
             <li className="nav-item">
